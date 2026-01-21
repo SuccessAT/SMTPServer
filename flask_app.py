@@ -251,9 +251,8 @@ def internal_error(e):
 # ============================================================================
 # Run Application
 # ============================================================================
-'''
+
 if __name__ == '__main__':
     # This is for local testing only
     # PythonAnywhere uses WSGI
     app.run(debug=False, host='0.0.0.0', port=5000)
-'''
