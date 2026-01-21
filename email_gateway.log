@@ -1,0 +1,2 @@
+2026-01-20 14:35:47,500 - email_gateway - INFO - send_email - Sending email to stagboyinu@gmail.com from 10.0.5.156
+2026-01-20 14:35:48,544 - email_gateway - ERROR - send_email - Failed to send email to stagboyinu@gmail.com: Unexpected error: [Errno 101] Network is unreachable
